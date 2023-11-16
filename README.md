@@ -1,5 +1,5 @@
 # Coin_or_Maize_Leaf_Disease_Detection
-Coin Or Maize Leaf Disease Detection Using Machine Learning , MoblieNet architecture
+Coin Or Maize Leaf Disease Detection Using Machine Learning,MoblieNet architecture
 
 
 Dataset Description : https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
